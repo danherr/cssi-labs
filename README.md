@@ -1,5 +1,7 @@
 # CSSI Curriculum Labs
 
+Vandalism of the ReadMe!!!
+
 Welcome to the CSSI Curriculum Labs.
 
 This repository contains the code and instructions for the student activities
